@@ -185,6 +185,7 @@ void show_details()
 
 int main()
 {
+    printf("Hi, Welcome to online banking System.\n");
     int choice, ch1;
     int logged_in = 0;
     printf("1. To login.\n");

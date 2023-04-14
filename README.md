@@ -26,6 +26,14 @@ To get started with this system, you will need to have a C compiler installed on
 
 5. Follow the on-screen instructions to use the system.
 
+
+## Concepts Used
+
+1. Arrays
+2. Structure
+3. String Comparison
+4. Conditional Statements
+5. Iterative statements
 ## How to Use
 
 To use the system, you need to login with your username and password. The default login credentials are:
